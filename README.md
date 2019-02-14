@@ -3,7 +3,25 @@ The repo containing your task for the third hackathon in the ACDH hackathon seri
 
 ## Your task
 
-...will be announced here on Feb 14, 2019 at 2 p.m. CET.
+The third hack of the ACDH virtual hackathon series is happening around the international Open Data Day and offers you a choice of two datasets. Pick the one that inspires you most and develop a creative mode of processing a textual dataset. It is your decision what to do with the data: You could enrich it, visualize it, do statistical analysis or develop an innovative application to explore it. You might even be inspired to develop a solution that incorporates both datasets.
+
+The fist dataset to be worked on in this task is a collection of [XML/TEI](http://www.tei-c.org/guidelines/) transcriptions of early German travel guides on non-European countries which were released by the Baedeker publishing house between 1875 and 1914 (5 volumes, first editions). The texts are tokenized, labelled with lemmas as well as part-of-speech-tags, and semantically annotated. The dataset was compiled in the context of the [travel!digital](https://traveldigital.acdh.oeaw.ac.at/) project.
+
+The data and the accompanying TEI schema is available for download here:
+* https://id.acdh.oeaw.ac.at/traveldigital/Corpus 
+* https://id.acdh.oeaw.ac.at/traveldigital/Auxiliary_Files/TEI_schema 
+
+The focus should be on functionalities that go beyond what the [travel!digital web-app](https://traveldigital.acdh.oeaw.ac.at/) already offers.
+
+We are offering the second dataset In cooperation with Europeana, the digital platform for cultural heritage funded by the European Union. It is composed of high definition images and full-text of 8 newspapers in German contributed by the Hamburg State and University Library Carl von Ossietzky to the Europeana's project on newspapers: http://www.europeana-newspapers.eu/featured-partner-hamburg-state-and-university-library-carl-von-ossietzky/. 
+
+The information on how to download the dataset is on a specific section at:
+https://pro.europeana.eu/resources/apis/iiif#download
+
+The documentation page for the IIIF APIs is available at:
+https://pro.europeana.eu/resources/apis/iiif
+
+We invite you to imagine its reuse in your field of research and/or to develop new modes of exploration and visualisation of large volumes of resources, in particular with full-text content.
 
 ## What your submission should contain
 
